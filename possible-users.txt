@@ -1,0 +1,4 @@
+possible users:
+	- medical providers
+	- people w/ long term health conditions
+	- researchers
